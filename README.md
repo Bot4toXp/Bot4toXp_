@@ -38,9 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
 </p>
 
-
-📈 GitHub Stats
-
-![Bot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=botatoxp1&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botatoxp1&layout=compact&theme=radical)
